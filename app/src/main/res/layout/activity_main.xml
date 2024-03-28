@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#00BCD4"
+    android:background="#B9D1D5"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_marginStart="59dp"
         android:layout_marginLeft="59dp"
         android:text="@string/my_first_git_project"
-        android:textColor="#DA0000"
+        android:textColor="#FFEB3B"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
